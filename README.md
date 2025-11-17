@@ -2,9 +2,9 @@
 
 A beautiful and feature-rich Sudoku game built with Flutter. Challenge your mind with multiple grid sizes, difficulty levels, and advanced features like hints, notes, and conflict detection.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.9.2+-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3.9.2+-0175C2?logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## ✨ Features
 
