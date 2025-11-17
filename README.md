@@ -36,68 +36,6 @@ A beautiful and feature-rich Sudoku game built with Flutter. Challenge your mind
 <!-- ![Home Screen](screenshots/home.png) -->
 <!-- ![Game Screen](screenshots/game.png) -->
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (3.9.2 or higher)
-- Dart SDK (3.9.2 or higher)
-- Android Studio / VS Code with Flutter extensions
-- Android SDK (for Android development)
-- Xcode (for iOS development, macOS only)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/p017.git
-   cd p017
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-### Building for Production
-
-**Android:**
-```bash
-flutter build apk --release
-# or for app bundle
-flutter build appbundle --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-**Web:**
-```bash
-flutter build web --release
-```
-
-**Windows:**
-```bash
-flutter build windows --release
-```
-
-**macOS:**
-```bash
-flutter build macos --release
-```
-
-**Linux:**
-```bash
-flutter build linux --release
-```
-
 ## 🎯 How to Play
 
 1. **Start the Game**: Launch the app and you'll see the home screen
@@ -111,26 +49,6 @@ flutter build linux --release
    - Undo moves if you make a mistake
 5. **Win**: Complete the grid correctly to win!
 
-## 📁 Project Structure
-
-```
-lib/
-├── logic/
-│   ├── sudoku_generator.dart    # Puzzle generation logic
-│   ├── sudoku_solver.dart       # Advanced solving algorithms
-│   └── sudoku_utils.dart        # Utility functions
-├── models/
-│   └── game_statistics.dart     # Statistics and achievements model
-├── screens/
-│   ├── home_screen.dart         # Home screen with settings
-│   └── sudoku_game_screen.dart  # Main game screen
-├── services/
-│   └── storage_service.dart     # Local storage for save/load
-├── widgets/
-│   ├── number_pad.dart         # Number input widget
-│   └── sudoku_grid.dart         # Grid display widget
-└── main.dart                    # App entry point
-```
 
 ## 🛠️ Technologies Used
 
@@ -139,16 +57,6 @@ lib/
 - **Google Fonts**: Custom typography (Comfortaa, Fredoka)
 - **Shared Preferences**: Local data persistence
 
-## 📦 Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.8
-  shared_preferences: ^2.2.2
-  google_fonts: ^6.1.0
-```
 
 ## 🎨 Features in Detail
 
@@ -170,19 +78,6 @@ dependencies:
 - **Hints**: Limited hints to help you progress
 - **Auto-save**: Game state is saved automatically
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
