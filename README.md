@@ -1,4 +1,4 @@
-# 🎯 Sudoku Master
+# ✏️ Sudoku Master
 
 A beautiful and feature-rich Sudoku game built with Flutter. Challenge your mind with multiple grid sizes, difficulty levels, and advanced features like hints, notes, and conflict detection.
 
