@@ -32,9 +32,7 @@ A beautiful and feature-rich Sudoku game built with Flutter. Challenge your mind
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
-<!-- ![Home Screen](screenshots/home.png) -->
-<!-- ![Game Screen](screenshots/game.png) -->
+<img src="https://raw.githubusercontent.com/kanizadev/p017/refs/heads/main/Sudoku%20Game%20.gif" hight=446 width=243 />
 
 ## 🎯 How to Play
 
